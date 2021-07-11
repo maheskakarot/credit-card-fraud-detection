@@ -1,3 +1,3 @@
 # credit-card-fraud-detection-using-isolation-forest
 
-Using isolation forest(ensemble method) to identify fradulent credit card transaction by detecting anamoly's in user data.
+Using isolation forest(ensemble method) to identify fraudulent credit card transactions by detecting anomaly's in user data.
